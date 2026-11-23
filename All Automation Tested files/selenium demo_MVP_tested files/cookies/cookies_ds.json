@@ -1,0 +1,110 @@
+[
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799464598,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.2.563338775.1764847104"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1764933510,
+    "httpOnly": false,
+    "name": "_clsk",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "1ilhy9z%5E1764847110184%5E1%5E1%5Ei.clarity.ms%2Fcollect"
+  },
+  {
+    "domain": ".dsautomobiles-salondeprovence.stg-eudemosite.com",
+    "expiry": 1780399107,
+    "httpOnly": false,
+    "name": "r1v2_cookie_key",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "customcookie"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1764904658,
+    "httpOnly": false,
+    "name": "_gat_newTracker0",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1"
+  },
+  {
+    "domain": ".dsautomobiles-salondeprovence.stg-eudemosite.com",
+    "expiry": 1780399107,
+    "httpOnly": false,
+    "name": "concernMode",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "granted"
+  },
+  {
+    "domain": "dsautomobiles-salondeprovence.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "BFB567D3C5433D6484910E51E5B318E0"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1796383108,
+    "httpOnly": false,
+    "name": "_clck",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "1nymw2b%5E2%5Eg1k%5E0%5E2164"
+  },
+  {
+    "domain": ".dsautomobiles-salondeprovence.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "13AC94A30E9E8AF0DAC53E82747B988E"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799407115,
+    "httpOnly": false,
+    "name": "_ga_CT28K57X7F",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "GS2.1.s1764847108$o1$g0$t1764847115$j53$l0$h1899432470"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1764990998,
+    "httpOnly": false,
+    "name": "_gid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.2.129689628.1764847104"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799407115,
+    "httpOnly": false,
+    "name": "_ga_89N9KVW7BH",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "GS2.1.s1764847108$o1$g0$t1764847115$j53$l0$h840135394"
+  }
+]

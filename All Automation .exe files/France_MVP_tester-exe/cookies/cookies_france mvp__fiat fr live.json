@@ -1,0 +1,20 @@
+[
+  {
+    "domain": ".fiatmodelversionpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "E6EADD8ADBBF3354859369BED33EC70C"
+  },
+  {
+    "domain": "fiatmodelversionpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "DB1C88922B29822A309C11A2582C5CE0"
+  }
+]

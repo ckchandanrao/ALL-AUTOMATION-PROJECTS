@@ -1,0 +1,11 @@
+[
+  {
+    "domain": "abarthmvp.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "AFE0FA0373E1290B4496B7D5FA386109"
+  }
+]

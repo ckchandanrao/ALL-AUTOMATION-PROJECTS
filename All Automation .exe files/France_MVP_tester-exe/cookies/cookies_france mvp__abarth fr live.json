@@ -1,0 +1,20 @@
+[
+  {
+    "domain": ".abarthmodelversionpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "A9BCBB2F49E2932DA57D1425D4D65499"
+  },
+  {
+    "domain": "abarthmodelversionpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "6C919011167458002D88E732E4F9D2A7"
+  }
+]

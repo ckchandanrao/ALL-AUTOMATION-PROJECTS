@@ -1,0 +1,11 @@
+[
+  {
+    "domain": "jeepmvp.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "700F907DF3518B9F49A9211FC6BA4B9B"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "domain": "infinitimodelpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "AF3FCDBADFD8B51676BD82D3DE79BEA7"
+  },
+  {
+    "domain": ".infinitimodelpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "89FBB5A0642E4D56766C6E15939BBA3F"
+  }
+]

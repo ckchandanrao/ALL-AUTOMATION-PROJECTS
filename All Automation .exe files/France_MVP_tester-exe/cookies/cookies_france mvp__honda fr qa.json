@@ -1,0 +1,11 @@
+[
+  {
+    "domain": "honda-lyon.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "40343ACCC9A4A20446877444C72750BA"
+  }
+]

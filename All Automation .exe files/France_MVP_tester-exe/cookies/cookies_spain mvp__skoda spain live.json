@@ -1,0 +1,20 @@
+[
+  {
+    "domain": "www.saveauto.net",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "9F65AC44E5E30820DDDF90B33023B28E"
+  },
+  {
+    "domain": ".www.saveauto.net",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "FA0864FD45C95A2562CAE4A397A9B7A0"
+  }
+]

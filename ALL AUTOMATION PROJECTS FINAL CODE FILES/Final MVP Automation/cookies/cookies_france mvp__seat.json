@@ -1,0 +1,80 @@
+[
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1765274213,
+    "httpOnly": false,
+    "name": "_clsk",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1twjsml%5E1765187813168%5E1%5E1%5Ee.clarity.ms%2Fcollect"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799747812,
+    "httpOnly": false,
+    "name": "_ga_BJW30KBG5V",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.1.s1765187811$o2$g1$t1765187812$j59$l0$h0"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1796723812,
+    "httpOnly": false,
+    "name": "_clck",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1plyihr%5E2%5Eg1o%5E0%5E2165"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799747812,
+    "httpOnly": false,
+    "name": "_ga_89N9KVW7BH",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.1.s1765187811$o2$g0$t1765187812$j60$l0$h480645280"
+  },
+  {
+    "domain": "seat-charleville.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "8233634D9005DA64ECCBDCFA201FD0E2"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799747812,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.1.2135638638.1764918145"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1772694146,
+    "httpOnly": false,
+    "name": "_gcl_au",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1.1.574399892.1764918146"
+  },
+  {
+    "domain": ".seat-charleville.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "B1F50ADA1ED5D38E292287AB5AD864E2"
+  }
+]

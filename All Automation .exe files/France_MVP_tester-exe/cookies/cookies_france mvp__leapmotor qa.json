@@ -1,0 +1,21 @@
+[
+  {
+    "domain": "leapmotor-generic-demosite.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "8EA85E211F9B0AE7C68B1E085C0AD511"
+  },
+  {
+    "domain": "leapmotor-generic-demosite.stg-eudemosite.com",
+    "expiry": 1802000883,
+    "httpOnly": false,
+    "name": "r1v2_cookie_key",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "customcookie"
+  }
+]

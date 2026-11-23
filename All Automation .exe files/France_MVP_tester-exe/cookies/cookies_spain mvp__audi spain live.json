@@ -1,0 +1,20 @@
+[
+  {
+    "domain": "audimvp.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "F7ED4BF6E3B30961163CC5E645BDEA2A"
+  },
+  {
+    "domain": ".audimvp.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "FF48AF5C2FE8E92FDA739AF62DFAA6A1"
+  }
+]

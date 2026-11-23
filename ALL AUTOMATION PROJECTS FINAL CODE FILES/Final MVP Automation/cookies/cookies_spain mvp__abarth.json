@@ -1,0 +1,20 @@
+[
+  {
+    "domain": ".abarthmvp.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "39BA9BD4B4002B5F5553B5A8CD1FEB56"
+  },
+  {
+    "domain": "abarthmvp.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "5AC5CD35E30F2CDF7AF1AC3B51D555B8"
+  }
+]

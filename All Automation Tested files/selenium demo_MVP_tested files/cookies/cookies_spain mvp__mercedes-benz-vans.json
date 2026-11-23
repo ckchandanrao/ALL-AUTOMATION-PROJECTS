@@ -1,0 +1,20 @@
+[
+  {
+    "domain": ".mercedesbenzvans.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "32A9BFE6FE1A5A970FA793682C7EAC4E"
+  },
+  {
+    "domain": "mercedesbenzvans.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "18212EFFB3CA6AA7C3EE9B602D627120"
+  }
+]

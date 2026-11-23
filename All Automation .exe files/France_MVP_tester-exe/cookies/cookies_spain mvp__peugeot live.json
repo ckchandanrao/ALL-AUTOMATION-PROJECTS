@@ -1,0 +1,11 @@
+[
+  {
+    "domain": "peugeotmvp.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "74C5CFBFE4193235CCA01063D0998B22"
+  }
+]

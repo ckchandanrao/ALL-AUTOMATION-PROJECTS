@@ -1,0 +1,20 @@
+[
+  {
+    "domain": "renaultmodelpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "8EB8D4595BE3964155EB4ABB1EF3161E"
+  },
+  {
+    "domain": ".renaultmodelpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "B0DE3DB3885C6CEF64DBFD64CE959BA8"
+  }
+]

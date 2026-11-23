@@ -1,0 +1,11 @@
+[
+  {
+    "domain": "opelmvp.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "01166F247389633D0D61A10CA40D7984"
+  }
+]

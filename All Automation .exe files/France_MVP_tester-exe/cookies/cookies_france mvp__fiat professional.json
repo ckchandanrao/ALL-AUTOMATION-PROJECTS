@@ -1,0 +1,40 @@
+[
+  {
+    "domain": ".fiat-aixenprovence.stg-eudemosite.com",
+    "expiry": 1780469715,
+    "httpOnly": false,
+    "name": "r1v2_cookie_key",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "customcookie"
+  },
+  {
+    "domain": ".fiat-aixenprovence.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "78FE77C0F3BA4BFC818C7D1A38962E55"
+  },
+  {
+    "domain": ".fiat-aixenprovence.stg-eudemosite.com",
+    "expiry": 1780469715,
+    "httpOnly": false,
+    "name": "concernMode",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "granted"
+  },
+  {
+    "domain": "fiat-aixenprovence.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "5013555AD74E05B7A5C8F1D1EC5BCE2E"
+  }
+]

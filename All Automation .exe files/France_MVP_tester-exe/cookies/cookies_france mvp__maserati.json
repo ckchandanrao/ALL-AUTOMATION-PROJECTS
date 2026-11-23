@@ -1,0 +1,50 @@
+[
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1769777480,
+    "httpOnly": false,
+    "name": "_gat_newTracker1",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1769863820,
+    "httpOnly": false,
+    "name": "_gid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.2.1872404487.1769777421"
+  },
+  {
+    "domain": ".maserati-annecy.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "74454ED42EEFF341D64C12FCF803E957"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1804337420,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.2.1228378864.1764917949"
+  },
+  {
+    "domain": "maserati-annecy.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "282F599FA2315B81F52DD32AAB990A81"
+  }
+]

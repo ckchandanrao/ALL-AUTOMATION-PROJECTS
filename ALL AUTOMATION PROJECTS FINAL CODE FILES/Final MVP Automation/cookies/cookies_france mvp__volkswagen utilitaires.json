@@ -1,0 +1,20 @@
+[
+  {
+    "domain": ".volkswagen-mantes.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "309C0F6FF6D874B1DE83C367F5540F55"
+  },
+  {
+    "domain": "volkswagen-mantes.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "F66A678BC155CE3C3622FA0132CADC79"
+  }
+]

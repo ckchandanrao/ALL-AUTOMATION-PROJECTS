@@ -1,0 +1,110 @@
+[
+  {
+    "domain": ".starmadrid.es",
+    "expiry": 1804833096,
+    "httpOnly": false,
+    "name": "_ga_0GRY12NTY2",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "GS2.1.s1770273093$o1$g0$t1770273096$j57$l0$h1671657337"
+  },
+  {
+    "domain": "mb.starmadrid.es",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "1CA2C9F43D7B9EFA75B997B19915D75C"
+  },
+  {
+    "domain": ".starmadrid.es",
+    "expiry": 1801809093,
+    "httpOnly": false,
+    "name": "_clck",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "hhllwi%5E2%5Eg3b%5E0%5E2227"
+  },
+  {
+    "domain": ".mb.starmadrid.es",
+    "expiry": 1772865092,
+    "httpOnly": false,
+    "name": "r1v2_cookie_key",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "customcookie"
+  },
+  {
+    "domain": ".starmadrid.es",
+    "expiry": 1770359493,
+    "httpOnly": false,
+    "name": "_uetsid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "503c6160025c11f1a26de3501e616867"
+  },
+  {
+    "domain": ".mb.starmadrid.es",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "84EC23CE0F4F220D81E3878A968AAC3F"
+  },
+  {
+    "domain": ".starmadrid.es",
+    "expiry": 1804833093,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "GA1.1.692718981.1770273093"
+  },
+  {
+    "domain": ".starmadrid.es",
+    "expiry": 1770359494,
+    "httpOnly": false,
+    "name": "_clsk",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "gdt7nb%5E1770273094666%5E1%5E1%5Ei.clarity.ms%2Fcollect"
+  },
+  {
+    "domain": ".starmadrid.es",
+    "expiry": 1803969093,
+    "httpOnly": false,
+    "name": "_uetvid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "503c6030025c11f19d879f33040806bf"
+  },
+  {
+    "domain": ".starmadrid.es",
+    "expiry": 1778049093,
+    "httpOnly": false,
+    "name": "_gcl_au",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "1.1.792370193.1770273093"
+  },
+  {
+    "domain": ".mb.starmadrid.es",
+    "expiry": 1772865092,
+    "httpOnly": false,
+    "name": "concernMode",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "granted"
+  }
+]

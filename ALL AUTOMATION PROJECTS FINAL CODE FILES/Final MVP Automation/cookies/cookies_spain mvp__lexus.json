@@ -1,0 +1,20 @@
+[
+  {
+    "domain": ".lexusmvp.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "FE9798D7F022F8A9B9B088C3636C23A8"
+  },
+  {
+    "domain": "lexusmvp.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "D2B3D068B2F43479EABFAFB92384C7B4"
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1765273391,
+    "httpOnly": false,
+    "name": "_clsk",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "eg9vvb%5E1765186991505%5E1%5E1%5Ee.clarity.ms%2Fcollect"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1796722990,
+    "httpOnly": false,
+    "name": "_clck",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1mwo6r1%5E2%5Eg1o%5E0%5E2168"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799746990,
+    "httpOnly": false,
+    "name": "_ga_89N9KVW7BH",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.1.s1765186990$o1$g0$t1765186990$j60$l0$h1338844536"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799746990,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.1.1571317555.1765186990"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799746989,
+    "httpOnly": false,
+    "name": "_ga_6FF596J2H1",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.1.s1765186989$o1$g0$t1765186989$j60$l0$h41186463"
+  },
+  {
+    "domain": "fiat-aixenprovence.stg-eudemosite.com",
+    "expiry": 1780738989,
+    "httpOnly": false,
+    "name": "concernMode",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "granted"
+  },
+  {
+    "domain": "fiat-aixenprovence.stg-eudemosite.com",
+    "expiry": 1780738989,
+    "httpOnly": false,
+    "name": "r1v2_cookie_key",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "customcookie"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1772962989,
+    "httpOnly": false,
+    "name": "_gcl_au",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1.1.1707195843.1765186990"
+  },
+  {
+    "domain": ".fiat-aixenprovence.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "3B09A98F17C2933A203A51A47722E161"
+  },
+  {
+    "domain": "fiat-aixenprovence.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "63BDBA1CC09EC26EFBE6DFB8E4A8049B"
+  }
+]

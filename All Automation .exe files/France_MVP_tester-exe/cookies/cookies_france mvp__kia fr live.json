@@ -1,0 +1,20 @@
+[
+  {
+    "domain": ".kiamodelpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "9D0940FF1DF2D41E9FAF9FA4815AE7FC"
+  },
+  {
+    "domain": "kiamodelpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "651329A0FA19B6B91DCD6E5C17B994D3"
+  }
+]

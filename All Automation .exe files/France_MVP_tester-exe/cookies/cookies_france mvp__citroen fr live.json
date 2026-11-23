@@ -1,0 +1,20 @@
+[
+  {
+    "domain": ".citroenmodelpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "905BAB0790D2AA8E6DC55DEEBBA211D3"
+  },
+  {
+    "domain": "citroenmodelpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "565C2DC0757BC792F46C1394CF0B7396"
+  }
+]

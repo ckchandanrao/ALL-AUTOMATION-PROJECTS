@@ -1,0 +1,80 @@
+[
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1765273946,
+    "httpOnly": false,
+    "name": "_clsk",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "ipavz6%5E1765187546080%5E1%5E1%5Ee.clarity.ms%2Fcollect"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799747545,
+    "httpOnly": false,
+    "name": "_ga_BJW30KBG5V",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.1.s1765187544$o2$g1$t1765187545$j59$l0$h0"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799747545,
+    "httpOnly": false,
+    "name": "_ga_89N9KVW7BH",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.1.s1765187544$o2$g0$t1765187545$j60$l0$h2094116654"
+  },
+  {
+    "domain": ".mitsubishi-motors-miho.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "5597A91B6161B6C8BAC2E2767BA03E3F"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1772694029,
+    "httpOnly": false,
+    "name": "_gcl_au",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1.1.1348902124.1764918029"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799747545,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.1.2135469924.1764918028"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1796723545,
+    "httpOnly": false,
+    "name": "_clck",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "nufz4c%5E2%5Eg1o%5E0%5E2165"
+  },
+  {
+    "domain": "mitsubishi-motors-miho.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "FA5D1F2DE443006B2AF35C198812DB3E"
+  }
+]

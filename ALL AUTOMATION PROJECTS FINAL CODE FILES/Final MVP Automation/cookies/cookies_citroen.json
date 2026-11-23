@@ -1,0 +1,100 @@
+[
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799465699,
+    "httpOnly": false,
+    "name": "_ga_89N9KVW7BH",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "GS2.1.s1764905697$o2$g0$t1764905699$j58$l0$h1659732533"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799465699,
+    "httpOnly": false,
+    "name": "_ga_5PTDQK9EYE",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "GS2.1.s1764905697$o2$g0$t1764905699$j58$l0$h2135159360"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1764992099,
+    "httpOnly": false,
+    "name": "_clsk",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "xj8rsx%5E1764905699248%5E1%5E1%5Ee.clarity.ms%2Fcollect"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799465699,
+    "httpOnly": false,
+    "name": "_ga_E44G4K48VE",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "GS2.1.s1764905697$o2$g0$t1764905699$j58$l0$h1353420369"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1796441697,
+    "httpOnly": false,
+    "name": "_clck",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "11druqa%5E2%5Eg1l%5E0%5E2164"
+  },
+  {
+    "domain": ".citroen-arras.stg-eudemosite.com",
+    "expiry": 1780457697,
+    "httpOnly": false,
+    "name": "concernMode",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "granted"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799465697,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "GA1.1.794834061.1764847055"
+  },
+  {
+    "domain": ".citroen-arras.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "49B39F5CC511053320049A77225D46E9"
+  },
+  {
+    "domain": ".citroen-arras.stg-eudemosite.com",
+    "expiry": 1780457697,
+    "httpOnly": false,
+    "name": "r1v2_cookie_key",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "customcookie"
+  },
+  {
+    "domain": "citroen-arras.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "7FB68B678585694D6FFC4DF6E8BAF9C5"
+  }
+]

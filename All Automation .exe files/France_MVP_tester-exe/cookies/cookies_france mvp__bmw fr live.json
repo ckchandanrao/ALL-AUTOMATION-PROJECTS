@@ -1,0 +1,20 @@
+[
+  {
+    "domain": "bmwmodelpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "3C0975B998C3C2F0706A4FA8A1847408"
+  },
+  {
+    "domain": ".bmwmodelpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "FD86CBAFBAF95D4E6BF2B18933CA949E"
+  }
+]

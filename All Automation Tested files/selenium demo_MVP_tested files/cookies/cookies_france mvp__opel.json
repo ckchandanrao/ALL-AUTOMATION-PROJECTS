@@ -1,0 +1,80 @@
+[
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1765273967,
+    "httpOnly": false,
+    "name": "_clsk",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1xb5l35%5E1765187567921%5E1%5E1%5Ee.clarity.ms%2Fcollect"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1796723567,
+    "httpOnly": false,
+    "name": "_clck",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1i7uhvc%5E2%5Eg1o%5E0%5E2165"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799747567,
+    "httpOnly": false,
+    "name": "_ga_89N9KVW7BH",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.1.s1765187567$o2$g0$t1765187567$j60$l0$h1648015630"
+  },
+  {
+    "domain": ".opel-tours.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "19811C934C5F8DFE3E4442056CA129A1"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1772694053,
+    "httpOnly": false,
+    "name": "_gcl_au",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1.1.1731970851.1764918053"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799747567,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.1.863067372.1764918051"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799747567,
+    "httpOnly": false,
+    "name": "_ga_BJW30KBG5V",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.1.s1765187567$o2$g1$t1765187567$j60$l0$h0"
+  },
+  {
+    "domain": "opel-tours.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "DED4D59383A11963A31A70C9EC344CD7"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "domain": ".landrovermodelpages.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "FCF9A1288369CB4B3509AF47ACBD7898"
+  },
+  {
+    "domain": "landrovermodelpages.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "A81FFFDC5C8E4855106764202F998E87"
+  }
+]

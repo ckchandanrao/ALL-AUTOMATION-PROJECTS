@@ -1,0 +1,20 @@
+[
+  {
+    "domain": ".fordmodelpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "A1570BFF6E92556B0B3EADF39F350C7D"
+  },
+  {
+    "domain": "fordmodelpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "2DF1D07CF06B9DC71AF6D9EBDF0C03E7"
+  }
+]

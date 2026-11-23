@@ -1,0 +1,50 @@
+[
+  {
+    "domain": ".saveauto.net",
+    "expiry": 1790671649,
+    "httpOnly": false,
+    "name": "_clsk",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "e8wk4p%5E1790585249879%5E2%5E1%5Eg.clarity.ms%2Fcollect"
+  },
+  {
+    "domain": "www.saveauto.net",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "51CFA30787D337B9056A6BF83EBE196A"
+  },
+  {
+    "domain": "www.saveauto.net",
+    "expiry": 1793177249,
+    "httpOnly": false,
+    "name": "concernMode",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "denied"
+  },
+  {
+    "domain": ".www.saveauto.net",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "E957832DE47ECA8E3437F8B85193AC79"
+  },
+  {
+    "domain": ".saveauto.net",
+    "expiry": 1822121249,
+    "httpOnly": false,
+    "name": "_clck",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "97p8za%5E2%5Eg9u%5E0%5E2393"
+  }
+]

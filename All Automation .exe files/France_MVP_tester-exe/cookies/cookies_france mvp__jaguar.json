@@ -1,0 +1,20 @@
+[
+  {
+    "domain": ".jaguarmodelpages.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "27FF3525139F015C9BA46EEC87E0145B"
+  },
+  {
+    "domain": "jaguarmodelpages.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "F1D66C474EF74ED60997BE2254DC0B16"
+  }
+]

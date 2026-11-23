@@ -1,0 +1,20 @@
+[
+  {
+    "domain": ".opelmodelpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "0EE1683D2789F1FAAD79C1A2A1D0ACDB"
+  },
+  {
+    "domain": "opelmodelpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "281013EEF113FE9AEA0899A3008B2269"
+  }
+]

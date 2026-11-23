@@ -1,0 +1,110 @@
+[
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1796724463,
+    "httpOnly": false,
+    "name": "_clck",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "a4uf3n%5E2%5Eg1o%5E0%5E2168"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1765188522,
+    "httpOnly": false,
+    "name": "_gat_newTracker0",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1765274865,
+    "httpOnly": false,
+    "name": "_clsk",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1vipk6d%5E1765188465612%5E1%5E1%5Ee.clarity.ms%2Fcollect"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799748463,
+    "httpOnly": false,
+    "name": "_ga_58KQYCK55E",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.1.s1765188463$o1$g0$t1765188463$j60$l0$h1432871989"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1765274862,
+    "httpOnly": false,
+    "name": "_gid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.2.1317916698.1765188463"
+  },
+  {
+    "domain": "saveauto.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "04083DA5ABA99E20477CA784F8A69C5A"
+  },
+  {
+    "domain": "saveauto.stg-eudemosite.com",
+    "expiry": 1767780462,
+    "httpOnly": false,
+    "name": "concernMode",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "granted"
+  },
+  {
+    "domain": ".saveauto.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "E38F096116FAFA474AC34D2BB988FAE5"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799748463,
+    "httpOnly": false,
+    "name": "_ga_051WHTX2GC",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.1.s1765188463$o1$g0$t1765188463$j60$l0$h0"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799748463,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.1.907131577.1765188463"
+  },
+  {
+    "domain": "saveauto.stg-eudemosite.com",
+    "expiry": 1767780462,
+    "httpOnly": false,
+    "name": "r1v2_cookie_key",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "customcookie"
+  }
+]

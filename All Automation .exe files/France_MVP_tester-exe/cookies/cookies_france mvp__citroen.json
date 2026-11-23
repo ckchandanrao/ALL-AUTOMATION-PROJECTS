@@ -1,0 +1,90 @@
+[
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799477613,
+    "httpOnly": false,
+    "name": "_ga_89N9KVW7BH",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "GS2.1.s1764917607$o1$g0$t1764917613$j54$l0$h2080321404"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799477613,
+    "httpOnly": false,
+    "name": "_ga_5PTDQK9EYE",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "GS2.1.s1764917607$o1$g0$t1764917613$j54$l0$h1514921605"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799477607,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "GA1.1.1849042009.1764917608"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1796453607,
+    "httpOnly": false,
+    "name": "_clck",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "10gj4uz%5E2%5Eg1l%5E0%5E2165"
+  },
+  {
+    "domain": ".citroen-arras.stg-eudemosite.com",
+    "expiry": 1780469607,
+    "httpOnly": false,
+    "name": "concernMode",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "granted"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799477613,
+    "httpOnly": false,
+    "name": "_ga_E44G4K48VE",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "GS2.1.s1764917607$o1$g0$t1764917613$j54$l0$h1625130305"
+  },
+  {
+    "domain": ".citroen-arras.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "5D4454C09E3610AF399EFE61DF196879"
+  },
+  {
+    "domain": ".citroen-arras.stg-eudemosite.com",
+    "expiry": 1780469607,
+    "httpOnly": false,
+    "name": "r1v2_cookie_key",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "customcookie"
+  },
+  {
+    "domain": "citroen-arras.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "8A162461B49C0AF9FECE5A185596EAE2"
+  }
+]

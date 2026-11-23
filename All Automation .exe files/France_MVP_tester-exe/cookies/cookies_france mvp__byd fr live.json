@@ -1,0 +1,20 @@
+[
+  {
+    "domain": ".bydmodelpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "A8CDE51CEE7E3BFCAF594C8937C5E1EB"
+  },
+  {
+    "domain": "bydmodelpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "81B3BCB56B0D17947001A36D1AAB7BC5"
+  }
+]

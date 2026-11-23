@@ -1,0 +1,11 @@
+[
+  {
+    "domain": "careastfrance.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "7A8DCACAA4F253344975FFBD7F8F22E0"
+  }
+]

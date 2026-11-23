@@ -1,0 +1,11 @@
+[
+  {
+    "domain": "renaultmodelpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "0CCCA4C0F8EE2B0F384662B356898381"
+  }
+]

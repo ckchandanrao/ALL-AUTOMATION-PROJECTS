@@ -1,0 +1,20 @@
+[
+  {
+    "domain": "nissanmodelpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "523A65892DD3D61732F624D40C6A0E3A"
+  },
+  {
+    "domain": ".nissanmodelpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "364538FBF24B6ABC9D25D5D92B457BB6"
+  }
+]

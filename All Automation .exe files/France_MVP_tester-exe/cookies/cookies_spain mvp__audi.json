@@ -1,0 +1,100 @@
+[
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1790667250,
+    "httpOnly": false,
+    "name": "_clsk",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "72yc5k%5E1790580850760%5E1%5E1%5Ea.clarity.ms%2Fcollect"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1822116849,
+    "httpOnly": false,
+    "name": "_clck",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "lweb07%5E2%5Eg9u%5E0%5E2393"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1792416861,
+    "httpOnly": false,
+    "name": "_gcl_au",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "1.1.2013618451.1784640861"
+  },
+  {
+    "domain": "audi-vilamobil.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "3B77830A395B5D7D8A7893EE18092712"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1825140870,
+    "httpOnly": false,
+    "name": "_ga_Y50M5F0NTV",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "GS2.1.s1790580850$o2$g1$t1790580870$j40$l0$h0"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1825140850,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "GA1.1.1314326666.1784640861"
+  },
+  {
+    "domain": ".audi-vilamobil.stg-eudemosite.com",
+    "expiry": 1793172848,
+    "httpOnly": false,
+    "name": "r1v2_cookie_key",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "customcookie"
+  },
+  {
+    "domain": ".audi-vilamobil.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "F3B37C0B6C217C98FC4CCC3021D78DCF"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1825140870,
+    "httpOnly": false,
+    "name": "_ga_NX8NYNXKFH",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "GS2.1.s1790580850$o2$g1$t1790580870$j40$l0$h1217310956"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1825140870,
+    "httpOnly": false,
+    "name": "_ga_051WHTX2GC",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "GS2.1.s1790580849$o2$g1$t1790580870$j39$l0$h0"
+  }
+]

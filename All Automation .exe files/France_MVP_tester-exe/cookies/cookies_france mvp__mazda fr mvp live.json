@@ -1,0 +1,11 @@
+[
+  {
+    "domain": "mazdamodelpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "74FC2F9A20AD86447D0A5119DCB0E10A"
+  }
+]

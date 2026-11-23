@@ -1,0 +1,90 @@
+[
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1796723918,
+    "httpOnly": false,
+    "name": "_clck",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "nweytv%5E2%5Eg1o%5E0%5E2165"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799747918,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.1.1509092239.1764918227"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1765274318,
+    "httpOnly": false,
+    "name": "_clsk",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "oucs2f%5E1765187918356%5E1%5E1%5Ee.clarity.ms%2Fcollect"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1765274317,
+    "httpOnly": false,
+    "name": "_gid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.2.2092385648.1765187917"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799747918,
+    "httpOnly": false,
+    "name": "_ga_BJW30KBG5V",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.1.s1765187916$o2$g1$t1765187918$j58$l0$h0"
+  },
+  {
+    "domain": ".toyota-asnieres.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "E759BF6A151A77CACD174EADD6808DEE"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1772694228,
+    "httpOnly": false,
+    "name": "_gcl_au",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1.1.905477439.1764918228"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799747917,
+    "httpOnly": false,
+    "name": "_ga_89N9KVW7BH",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.1.s1765187916$o2$g0$t1765187917$j60$l0$h1289492634"
+  },
+  {
+    "domain": "toyota-asnieres.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "5A25D26027D2AB9036F65F39835D0C41"
+  }
+]

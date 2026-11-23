@@ -1,0 +1,20 @@
+[
+  {
+    "domain": "leapmotorsmodelpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "E5B49656CCADA1432706802C9ECECB13"
+  },
+  {
+    "domain": ".leapmotorsmodelpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "76DB7D2499CAABF778DB5DD8FD744252"
+  }
+]

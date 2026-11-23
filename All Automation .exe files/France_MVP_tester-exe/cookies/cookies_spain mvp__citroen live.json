@@ -1,0 +1,11 @@
+[
+  {
+    "domain": "citroenmvp.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "8D10A444A43216BA48D2AA6F2961153A"
+  }
+]

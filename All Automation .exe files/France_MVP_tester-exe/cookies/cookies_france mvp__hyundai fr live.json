@@ -1,0 +1,11 @@
+[
+  {
+    "domain": "hyundaimodelpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "4302D133EEEC41251E2289BB3EFA13BB"
+  }
+]

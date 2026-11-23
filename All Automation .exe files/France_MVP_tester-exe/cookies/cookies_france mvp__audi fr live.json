@@ -1,0 +1,20 @@
+[
+  {
+    "domain": "audimodelpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "F8C27AEFC31C9628B961C66ADE69EB9E"
+  },
+  {
+    "domain": ".audimodelpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "1B64D6C87E9A76333C4387C955F04CEC"
+  }
+]

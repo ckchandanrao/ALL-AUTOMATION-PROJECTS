@@ -1,0 +1,120 @@
+[
+  {
+    "domain": ".skoda-chateauroux.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "98ABA7CE204C6E1A5C4FC88C5BAB4DCA"
+  },
+  {
+    "domain": ".skoda-chateauroux.stg-eudemosite.com",
+    "expiry": 1780455953,
+    "httpOnly": false,
+    "name": "concernMode",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "granted"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799463954,
+    "httpOnly": false,
+    "name": "_ga_89N9KVW7BH",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "GS2.1.s1764903954$o2$g0$t1764903954$j60$l0$h471885766"
+  },
+  {
+    "domain": ".skoda-chateauroux.stg-eudemosite.com",
+    "expiry": 1780455953,
+    "httpOnly": false,
+    "name": "r1v2_cookie_key",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "customcookie"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799410624,
+    "httpOnly": false,
+    "name": "_ga_58KQYCK55E",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "GS2.1.s1764850624$o1$g0$t1764850624$j60$l0$h279202287"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799463954,
+    "httpOnly": false,
+    "name": "_ga_58YFL23RKL",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "GS2.1.s1764903954$o2$g0$t1764903954$j60$l0$h0"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799410624,
+    "httpOnly": false,
+    "name": "_ga_051WHTX2GC",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "GS2.1.s1764850624$o1$g0$t1764850624$j60$l0$h0"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799463954,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "GA1.1.1488065047.1764847629"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1796439954,
+    "httpOnly": false,
+    "name": "_clck",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "1l7ftyz%5E2%5Eg1l%5E0%5E2164"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1764937024,
+    "httpOnly": false,
+    "name": "_gid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "GA1.2.1066075998.1764850624"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1764990355,
+    "httpOnly": false,
+    "name": "_clsk",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "1qb5jfm%5E1764903955970%5E1%5E1%5Ee.clarity.ms%2Fcollect"
+  },
+  {
+    "domain": "skoda-chateauroux.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "2E7304E1E0721F37BEB45BFC985BDCFD"
+  }
+]

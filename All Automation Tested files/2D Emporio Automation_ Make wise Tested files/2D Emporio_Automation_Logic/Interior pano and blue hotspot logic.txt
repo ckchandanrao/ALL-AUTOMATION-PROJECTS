@@ -1,0 +1,18 @@
+1)This is for interior pano FOR FRANCE and SPAIN
+https://app.izmoemporio.com/resources/izmo-emporio-hybrid/templates/templateone/views/visualizer/interiorpano.html?dataPath=//s3-eu-west-1.amazonaws.com/staticeu.izmocars.com/toolkit/newgen/2025/25skoda/25skodaenyaqev85su1ffres/25skodaenyaqev85su1ffres_panovr/&country=ES&lang=en_us&wmode=transparent&swfPath=//productseu.izmocars.com/legacytoolkit/toolkitflashpages/int360.swf&izmoPanoJsPath=//s3-eu-west-1.amazonaws.com/staticeu.izmocars.com/toolkit/commonassets/
+
+2)This is for Blue Hotspot FOR FRANCE and SPAIN:
+https://s3-eu-west-1.amazonaws.com/staticeu.izmocars.com/toolkit/newgen/2025/25abarth/25abarth500eevturismoha3bfr/25abarth500eevturismoha3bfr_panovr/skin/hs.webp
+
+3)This is for interior pano FOR US
+https://app.izmoemporio.com/resources/izmo-emporio-hybrid/templates/templateone/views/visualizer/interiorpano.html?dataPath=//s3-us-west-2.amazonaws.com/static.izmocars.com/toolkit/newgen/2025/25acura/25acuraadxaspecsu1a/25acuraadxaspecsu1a_panovr/&country=US&lang=en_us&wmode=transparent&swfPath=//products.izmocars.com/legacytoolkit/toolkitflashpages/int360.swf&izmoPanoJsPath=//s3-us-west-2.amazonaws.com/static.izmocars.com/toolkit/legacyT/
+
+4)This is for Blue Hotspot FOR US
+https://s3-us-west-2.amazonaws.com/static.izmocars.com/toolkit/newgen/2024/24volkswagen/24volkswagenarteonselpremrlnawdhb1ra/24volkswagenarteonselpremrlnawdhb1ra_panovr/skin/hs.webp
+
+
+5)For color broken status S3 path generating
+if region == "US":
+        base_url = f"https://static-h2.izmocars.com/toolkit/newgen/{region}" then year/yearmake/alias/alias_animations/_360color/_660x440/color_name/angles.webp
+    else:(FOR FR and ES)
+        base_url = f"https://staticeu-h2.izmocars.com/toolkit/newgen/{region}"then year/yearmake/alias/alias_animations/_360color/_660x440/color_name/angles.webp

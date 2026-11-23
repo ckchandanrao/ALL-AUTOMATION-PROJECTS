@@ -1,0 +1,41 @@
+[
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1805180581,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.2.415546093.1770620581"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1770620641,
+    "httpOnly": false,
+    "name": "_gat_newTracker0",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1770706981,
+    "httpOnly": false,
+    "name": "_gid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.2.6033194.1770620581"
+  },
+  {
+    "domain": "dsautomobiles-salondeprovence.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "13AAAB945EC374633FBE81D306FB767C"
+  }
+]

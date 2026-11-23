@@ -1,0 +1,100 @@
+[
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799746934,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.2.728803489.1764917653"
+  },
+  {
+    "domain": ".dsautomobiles-salondeprovence.stg-eudemosite.com",
+    "expiry": 1780469657,
+    "httpOnly": false,
+    "name": "r1v2_cookie_key",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "customcookie"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1765186994,
+    "httpOnly": false,
+    "name": "_gat_newTracker0",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1"
+  },
+  {
+    "domain": ".dsautomobiles-salondeprovence.stg-eudemosite.com",
+    "expiry": 1780469657,
+    "httpOnly": false,
+    "name": "concernMode",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "granted"
+  },
+  {
+    "domain": "dsautomobiles-salondeprovence.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "0C937FC5EA87369FF646ED8B486583AD"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1796453657,
+    "httpOnly": false,
+    "name": "_clck",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "1227sp0%5E2%5Eg1l%5E0%5E2165"
+  },
+  {
+    "domain": ".dsautomobiles-salondeprovence.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "19180120F77360D5026010ED75061801"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799477663,
+    "httpOnly": false,
+    "name": "_ga_CT28K57X7F",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "GS2.1.s1764917657$o1$g0$t1764917663$j54$l0$h541713628"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1765273334,
+    "httpOnly": false,
+    "name": "_gid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.2.778101855.1765186934"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799477663,
+    "httpOnly": false,
+    "name": "_ga_89N9KVW7BH",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "GS2.1.s1764917658$o1$g0$t1764917663$j55$l0$h1142193231"
+  }
+]

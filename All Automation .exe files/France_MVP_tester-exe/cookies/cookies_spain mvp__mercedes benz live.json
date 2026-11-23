@@ -1,0 +1,90 @@
+[
+  {
+    "domain": ".www.starmadrid.es",
+    "expiry": 1768629987,
+    "httpOnly": false,
+    "name": "concernMode",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "granted"
+  },
+  {
+    "domain": "www.starmadrid.es",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "9214FC826E117F6E8D02630A381AD725"
+  },
+  {
+    "domain": ".starmadrid.es",
+    "expiry": 1800597992,
+    "httpOnly": false,
+    "name": "_ga_0GRY12NTY2",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "GS2.1.s1766037987$o1$g0$t1766037992$j55$l0$h1248050660"
+  },
+  {
+    "domain": ".starmadrid.es",
+    "expiry": 1800597987,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "GA1.1.1993010994.1766037988"
+  },
+  {
+    "domain": ".www.starmadrid.es",
+    "expiry": 1768629987,
+    "httpOnly": false,
+    "name": "r1v2_cookie_key",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "customcookie"
+  },
+  {
+    "domain": ".starmadrid.es",
+    "expiry": 1773813988,
+    "httpOnly": false,
+    "name": "_gcl_au",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "1.1.1832448399.1766037988"
+  },
+  {
+    "domain": ".starmadrid.es",
+    "expiry": 1797573988,
+    "httpOnly": false,
+    "name": "_clck",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "18pw13i%5E2%5Eg1y%5E0%5E2178"
+  },
+  {
+    "domain": ".starmadrid.es",
+    "expiry": 1799733988,
+    "httpOnly": false,
+    "name": "_uetvid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "b0e48a20dbd711f083c5bd5a37e69bf5"
+  },
+  {
+    "domain": ".www.starmadrid.es",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "F6B321856E9C4A118B80BAF46343633B"
+  }
+]

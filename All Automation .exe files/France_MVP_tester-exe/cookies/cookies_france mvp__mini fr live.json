@@ -1,0 +1,20 @@
+[
+  {
+    "domain": "minimodelpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "D15FC56117B8278DA80010AB6CCFC6DA"
+  },
+  {
+    "domain": ".minimodelpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "AEFB082D0928A064CE76E74711580C2E"
+  }
+]

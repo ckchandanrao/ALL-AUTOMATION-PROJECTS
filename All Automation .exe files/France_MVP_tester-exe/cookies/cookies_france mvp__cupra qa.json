@@ -1,0 +1,80 @@
+[
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1790160084,
+    "httpOnly": false,
+    "name": "_clsk",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "j7xna5%5E1790073684835%5E1%5E1%5Ej.clarity.ms%2Fcollect"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1821008860,
+    "httpOnly": false,
+    "name": "_ga_89N9KVW7BH",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "GS2.1.s1786448851$o1$g0$t1786448860$j54$l0$h1384131485"
+  },
+  {
+    "domain": "cupra-chateauroux.stg-eudemosite.com",
+    "expiry": 1792665683,
+    "httpOnly": false,
+    "name": "concernMode",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "denied"
+  },
+  {
+    "domain": "cupra-chateauroux.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "238656DC212A7AA5F040076ECCB9D0AA"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1821008854,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "GA1.1.1515514685.1786448852"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1821609683,
+    "httpOnly": false,
+    "name": "_clck",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1suvibr%5E2%5Eg9o%5E0%5E2414"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1821008860,
+    "httpOnly": false,
+    "name": "_ga_HFCYL8ZPYW",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "GS2.1.s1786448851$o1$g0$t1786448860$j54$l0$h0"
+  },
+  {
+    "domain": ".cupra-chateauroux.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "915DA4B92C34474223FEDD8C5AD1A60F"
+  }
+]

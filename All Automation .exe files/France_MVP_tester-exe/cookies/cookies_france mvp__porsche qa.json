@@ -1,0 +1,11 @@
+[
+  {
+    "domain": "porsche-roissy.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "88C37D9245C0BD35537B5E755F6B18BB"
+  }
+]

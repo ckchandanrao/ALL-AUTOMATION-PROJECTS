@@ -1,0 +1,11 @@
+[
+  {
+    "domain": "abarthmvp.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "DC17381F60E177655A4B810BA1E3F01A"
+  }
+]

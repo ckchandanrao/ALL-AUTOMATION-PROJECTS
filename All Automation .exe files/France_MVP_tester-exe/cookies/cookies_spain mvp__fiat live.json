@@ -1,0 +1,11 @@
+[
+  {
+    "domain": "fiatmvp.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "CE90F602524B17817C337BA4EE58E133"
+  }
+]

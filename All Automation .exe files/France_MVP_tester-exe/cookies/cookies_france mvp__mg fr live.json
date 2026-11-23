@@ -1,0 +1,20 @@
+[
+  {
+    "domain": ".mgmodelpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "BD41F0399317ABC1AE9C706270A04F78"
+  },
+  {
+    "domain": "mgmodelpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "7F35FAD64717D0614B46A39AD20301BD"
+  }
+]

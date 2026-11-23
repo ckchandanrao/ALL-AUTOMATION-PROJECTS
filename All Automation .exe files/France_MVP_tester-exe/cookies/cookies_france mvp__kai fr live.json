@@ -1,0 +1,11 @@
+[
+  {
+    "domain": "kiamodelpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "261AB251D9073608AB348C782FA73C15"
+  }
+]

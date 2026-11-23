@@ -1,0 +1,80 @@
+[
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1764991361,
+    "httpOnly": false,
+    "name": "_clsk",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1b0ryee%5E1764904961512%5E1%5E1%5Ee.clarity.ms%2Fcollect"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799464961,
+    "httpOnly": false,
+    "name": "_ga_BJW30KBG5V",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.1.s1764904959$o2$g1$t1764904961$j58$l0$h0"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1796440961,
+    "httpOnly": false,
+    "name": "_clck",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "aeaq1y%5E2%5Eg1l%5E0%5E2164"
+  },
+  {
+    "domain": ".renault-annemasse.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "69F1427FBFE8FBB8D6F33C27D52FEAB9"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799464961,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.1.303497199.1764847561"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1772623564,
+    "httpOnly": false,
+    "name": "_gcl_au",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1.1.555600557.1764847564"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799464961,
+    "httpOnly": false,
+    "name": "_ga_89N9KVW7BH",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.1.s1764904960$o2$g0$t1764904961$j60$l0$h457836189"
+  },
+  {
+    "domain": "renault-annemasse.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "EA41F760024DF783AAB2B1F90E3C156B"
+  }
+]

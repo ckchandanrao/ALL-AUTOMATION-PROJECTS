@@ -1,0 +1,20 @@
+[
+  {
+    "domain": ".jeepmvp.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "C7CB921AB0B7D136A4398E8592EA5B2B"
+  },
+  {
+    "domain": "jeepmvp.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "0E518864399E25748C326445DC709594"
+  }
+]

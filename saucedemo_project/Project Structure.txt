@@ -1,0 +1,14 @@
+Step 1: Project structure
+
+saucedemo_project/
+├── pages/
+│   ├── __init__.py
+│   ├── login_page.py
+│   ├── inventory_page.py
+│   ├── cart_page.py
+│   └── checkout_page.py
+├── tests/
+│   ├── __init__.py
+│   └── test_saucedemo_flow.py
+├── conftest.py
+└── requirements.txt

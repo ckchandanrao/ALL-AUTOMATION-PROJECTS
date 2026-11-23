@@ -1,0 +1,20 @@
+[
+  {
+    "domain": ".mercedesbenzmvp.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "A108404B564167CFDF97A87337F41BDB"
+  },
+  {
+    "domain": "mercedesbenzmvp.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "2E89752C9EBC4C63D8245FD11BBD033E"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "domain": "hondamodelpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "1AB031A06E4460C4ABEFB4A3155C1BA8"
+  },
+  {
+    "domain": ".hondamodelpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "31D6FD7331D4131014C7A74E666AEB4B"
+  }
+]

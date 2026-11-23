@@ -1,0 +1,11 @@
+[
+  {
+    "domain": "toyotamvp.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "ACA0CFF8226ED4E111EF97CB33AFF24B"
+  }
+]

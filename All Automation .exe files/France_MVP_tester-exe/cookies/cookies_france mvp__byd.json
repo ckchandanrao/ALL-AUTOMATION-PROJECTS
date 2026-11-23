@@ -1,0 +1,90 @@
+[
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1804336727,
+    "httpOnly": false,
+    "name": "_ga_03V072MTVF",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.1.s1769776726$o3$g0$t1769776727$j59$l0$h866436689"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1801312726,
+    "httpOnly": false,
+    "name": "_clck",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "10jrhlb%5E2%5Eg35%5E0%5E2165"
+  },
+  {
+    "domain": ".byd-chartres.stg-eudemosite.com",
+    "expiry": 1780469583,
+    "httpOnly": false,
+    "name": "concernMode",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "granted"
+  },
+  {
+    "domain": ".byd-chartres.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "21CD92837CF380BA3B1F10BD596C6A61"
+  },
+  {
+    "domain": ".byd-chartres.stg-eudemosite.com",
+    "expiry": 1780469583,
+    "httpOnly": false,
+    "name": "r1v2_cookie_key",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "customcookie"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1804336726,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.1.109958117.1764917576"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1769863126,
+    "httpOnly": false,
+    "name": "_clsk",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1tatk0s%5E1769776726865%5E1%5E1%5Ee.clarity.ms%2Fcollect"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799477586,
+    "httpOnly": false,
+    "name": "_ga_89N9KVW7BH",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "GS2.1.s1764917583$o1$g0$t1764917586$j57$l0$h1831922967"
+  },
+  {
+    "domain": "byd-chartres.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "3E84976ECF4D2B30F0C301B0A07F6B9C"
+  }
+]

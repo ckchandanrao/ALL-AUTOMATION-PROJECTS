@@ -1,0 +1,20 @@
+[
+  {
+    "domain": "peugeotmvp.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "FEEAAE2FBA60AE6B9CDE044208D2DC26"
+  },
+  {
+    "domain": ".peugeotmvp.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "9EB89D4B0E77021A1610185CCA6DA3CF"
+  }
+]

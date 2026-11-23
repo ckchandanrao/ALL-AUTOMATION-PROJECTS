@@ -1,0 +1,20 @@
+[
+  {
+    "domain": ".subarumodelpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "43EF30B9F9264D5D4EFB31B07F221D2F"
+  },
+  {
+    "domain": "subarumodelpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "0D7EE43AE481B5E8518F00C8E2A65B2E"
+  }
+]

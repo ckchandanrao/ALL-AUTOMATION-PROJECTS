@@ -1,0 +1,11 @@
+[
+  {
+    "domain": "fiatmvp.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "A588E4E49F26D119265DBCFCF32B0B14"
+  }
+]

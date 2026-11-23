@@ -1,0 +1,90 @@
+[
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1801312573,
+    "httpOnly": false,
+    "name": "_clck",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "c8xegg%5E2%5Eg35%5E0%5E2165"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1804336573,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.1.817100318.1764917518"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1769862973,
+    "httpOnly": false,
+    "name": "_clsk",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "ia0g6i%5E1769776573936%5E1%5E1%5Ee.clarity.ms%2Fcollect"
+  },
+  {
+    "domain": ".bmw-arles.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "ED60819B41581FA5D63B821F39EAD91D"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1769862973,
+    "httpOnly": false,
+    "name": "_gid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.2.542830831.1769776573"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1804336573,
+    "httpOnly": false,
+    "name": "_ga_89N9KVW7BH",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.1.s1769776572$o4$g0$t1769776573$j60$l0$h863572388"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1772693519,
+    "httpOnly": false,
+    "name": "_gcl_au",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1.1.1572863944.1764917519"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1804336573,
+    "httpOnly": false,
+    "name": "_ga_BJW30KBG5V",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.1.s1769776572$o4$g1$t1769776573$j59$l0$h0"
+  },
+  {
+    "domain": "bmw-arles.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "3765C5D7C1DD2A388DF72B67F11044CD"
+  }
+]

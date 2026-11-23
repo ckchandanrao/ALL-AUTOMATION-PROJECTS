@@ -1,0 +1,120 @@
+[
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1796723422,
+    "httpOnly": false,
+    "name": "_clck",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "e9rso7%5E2%5Eg1o%5E0%5E2165"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799747421,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.1.106630772.1764917913"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799747421,
+    "httpOnly": false,
+    "name": "_ga_89N9KVW7BH",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.1.s1765187420$o2$g0$t1765187421$j60$l0$h54423429"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799747422,
+    "httpOnly": false,
+    "name": "_ga_BJW30KBG5V",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.1.s1765187420$o2$g1$t1765187422$j58$l0$h0"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1765187481,
+    "httpOnly": false,
+    "name": "_gat_gtag_UA_61325960_17",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1765273821,
+    "httpOnly": false,
+    "name": "_gid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.2.335580233.1765187421"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799747421,
+    "httpOnly": false,
+    "name": "_ga_9X5YH574ES",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.1.s1765187420$o2$g0$t1765187421$j60$l0$h0"
+  },
+  {
+    "domain": ".lexus-chambourcy.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "4051C352DC4B65E358C96453E322A822"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1765187481,
+    "httpOnly": false,
+    "name": "_gat_newTracker1",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1772693914,
+    "httpOnly": false,
+    "name": "_gcl_au",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1.1.728363527.1764917914"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1765273822,
+    "httpOnly": false,
+    "name": "_clsk",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "czpdlp%5E1765187422374%5E1%5E1%5Ee.clarity.ms%2Fcollect"
+  },
+  {
+    "domain": "lexus-chambourcy.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "12F5CD9433778F67C5A8DB7C982A9D17"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1804337006,
+    "httpOnly": false,
+    "name": "_ga_BJW30KBG5V",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.1.s1769777006$o4$g1$t1769777006$j60$l0$h0"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1804337006,
+    "httpOnly": false,
+    "name": "_ga_89N9KVW7BH",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.1.s1769777006$o4$g0$t1769777006$j60$l0$h269811289"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1801313006,
+    "httpOnly": false,
+    "name": "_clck",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "8jdd3a%5E2%5Eg35%5E0%5E2165"
+  },
+  {
+    "domain": ".ford-arras.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "57716157D88B56322182011CD45043BC"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1804337006,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.1.2060590138.1764917723"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1772693724,
+    "httpOnly": false,
+    "name": "_gcl_au",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1.1.1540531887.1764917724"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1769863407,
+    "httpOnly": false,
+    "name": "_clsk",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1r8y89e%5E1769777007208%5E1%5E1%5Ee.clarity.ms%2Fcollect"
+  },
+  {
+    "domain": "ford-arras.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "146085133376A20D9D93B23B3625C8C2"
+  }
+]

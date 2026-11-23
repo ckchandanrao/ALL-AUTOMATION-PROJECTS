@@ -1,0 +1,90 @@
+[
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1810032936,
+    "httpOnly": false,
+    "name": "_ga_BJW30KBG5V",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.1.s1775471635$o2$g1$t1775472936$j60$l0$h0"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1807007636,
+    "httpOnly": false,
+    "name": "_clck",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "1keo4m7%5E2%5Eg4z%5E0%5E2231"
+  },
+  {
+    "domain": ".bmw-arles.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "B501D5AFA47FB12527FBF8BDDB512AA2"
+  },
+  {
+    "domain": "bmw-arles.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "45D0B49F961A34E963880127FFE0906F"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1778396407,
+    "httpOnly": false,
+    "name": "_gcl_au",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1.1.1389614739.1770620407"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1810032936,
+    "httpOnly": false,
+    "name": "_ga_89N9KVW7BH",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.1.s1775471635$o2$g0$t1775472936$j60$l0$h338633084"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1810032936,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.1.1903435439.1770620404"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1775559336,
+    "httpOnly": false,
+    "name": "_gid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.2.772032329.1775471636"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1775559337,
+    "httpOnly": false,
+    "name": "_clsk",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1gl26qe%5E1775472937219%5E2%5E1%5Ei.clarity.ms%2Fcollect"
+  }
+]

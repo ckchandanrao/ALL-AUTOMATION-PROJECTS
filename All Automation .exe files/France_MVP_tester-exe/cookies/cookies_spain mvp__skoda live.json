@@ -1,0 +1,11 @@
+[
+  {
+    "domain": "www.saveauto.net",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "7B75CAA23A1E626847E250FB38BDF337"
+  }
+]

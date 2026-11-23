@@ -1,0 +1,20 @@
+[
+  {
+    "domain": ".mercedes-benzmodelpages.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "BE8A29966FBEC1A2643A028B9C84342E"
+  },
+  {
+    "domain": "mercedes-benzmodelpages.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "BF4F857AF3B07BCD901E8FBEA2B2D605"
+  }
+]

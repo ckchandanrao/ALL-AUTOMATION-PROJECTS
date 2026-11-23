@@ -1,0 +1,11 @@
+[
+  {
+    "domain": "alfaromeomodelpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "550CB9843627D069C9397633C29847A7"
+  }
+]

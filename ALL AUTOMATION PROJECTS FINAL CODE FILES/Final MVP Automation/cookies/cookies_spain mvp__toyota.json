@@ -1,0 +1,20 @@
+[
+  {
+    "domain": ".toyotamvp.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "4D177C7C835041719AB064BC1D866E02"
+  },
+  {
+    "domain": "toyotamvp.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "BB46DEBE501FAB1041C92E378747DDDB"
+  }
+]

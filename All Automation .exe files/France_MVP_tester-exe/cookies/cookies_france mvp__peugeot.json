@@ -1,0 +1,80 @@
+[
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1769864195,
+    "httpOnly": false,
+    "name": "_clsk",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "14c15d0%5E1769777795080%5E1%5E1%5Ee.clarity.ms%2Fcollect"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1804337794,
+    "httpOnly": false,
+    "name": "_ga_BJW30KBG5V",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.1.s1769777793$o4$g1$t1769777794$j59$l0$h0"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1804337794,
+    "httpOnly": false,
+    "name": "_ga_89N9KVW7BH",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.1.s1769777793$o4$g0$t1769777794$j60$l0$h1073804494"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1801313794,
+    "httpOnly": false,
+    "name": "_clck",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "16rfcax%5E2%5Eg35%5E0%5E2165"
+  },
+  {
+    "domain": ".peugeot-saintmaximin.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "189631DB761B062FBFC5DD569E80F2DB"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1772694084,
+    "httpOnly": false,
+    "name": "_gcl_au",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1.1.1139951279.1764918084"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1804337794,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.1.631159545.1764918083"
+  },
+  {
+    "domain": "peugeot-saintmaximin.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "3097284B8B713DF49B4A3A7854B17CF4"
+  }
+]

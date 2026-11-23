@@ -1,0 +1,80 @@
+[
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1764998764,
+    "httpOnly": false,
+    "name": "_clsk",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "2gh9ga%5E1764912364211%5E1%5E1%5Ee.clarity.ms%2Fcollect"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799472363,
+    "httpOnly": false,
+    "name": "_ga_89N9KVW7BH",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.1.s1764912362$o4$g0$t1764912363$j60$l0$h1391628622"
+  },
+  {
+    "domain": ".mercedes-benz-beauvais-utilitaires.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "266FAA116D1F3878C86A4D0BAA31823A"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1772623417,
+    "httpOnly": false,
+    "name": "_gcl_au",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1.1.68492571.1764847417"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799472363,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.1.913289718.1764847416"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1796439669,
+    "httpOnly": false,
+    "name": "_clck",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "4w5v80%5E2%5Eg1l%5E0%5E2164"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799472363,
+    "httpOnly": false,
+    "name": "_ga_BJW30KBG5V",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.1.s1764912362$o4$g1$t1764912363$j59$l0$h0"
+  },
+  {
+    "domain": "mercedes-benz-beauvais-utilitaires.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "276336D08FECF6472C0EB972C65CE390"
+  }
+]

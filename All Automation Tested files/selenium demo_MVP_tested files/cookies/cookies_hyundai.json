@@ -1,0 +1,60 @@
+[
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1764904743,
+    "httpOnly": false,
+    "name": "_gat_newTracker1",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1"
+  },
+  {
+    "domain": ".hyundai-amiens-poulainville.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "8874F525DB2F5B1899367B0064E67701"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799464683,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.2.573405283.1764847209"
+  },
+  {
+    "domain": ".hyundai-amiens-poulainville.stg-eudemosite.com",
+    "expiry": 1780399214,
+    "httpOnly": false,
+    "name": "r1v2_cookie_key",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "customcookie"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1764991083,
+    "httpOnly": false,
+    "name": "_gid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.2.695449478.1764847209"
+  },
+  {
+    "domain": "hyundai-amiens-poulainville.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "AC6173BA7B1777DBA65CEB4824ED0423"
+  }
+]

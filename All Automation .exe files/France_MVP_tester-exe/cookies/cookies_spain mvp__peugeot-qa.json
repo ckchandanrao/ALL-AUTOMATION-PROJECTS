@@ -1,0 +1,11 @@
+[
+  {
+    "domain": "peugeotmvp.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "59832F62C0C586A4A989D3EB7D8625F5"
+  }
+]

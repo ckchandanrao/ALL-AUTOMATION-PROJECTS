@@ -1,0 +1,20 @@
+[
+  {
+    "domain": "suzukimodelpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "3BBA81774D1E401C237204654A46336E"
+  },
+  {
+    "domain": ".suzukimodelpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "87337C1246DBA7B7ECD2AC3779440179"
+  }
+]

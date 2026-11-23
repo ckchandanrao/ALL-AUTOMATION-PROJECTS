@@ -1,0 +1,91 @@
+[
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1821008969,
+    "httpOnly": false,
+    "name": "_ga_89N9KVW7BH",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.1.s1786448956$o1$g1$t1786448969$j47$l0$h1161106605"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1817984956,
+    "httpOnly": false,
+    "name": "_clck",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "x9qbue%5E2%5Eg8i%5E0%5E2414"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1786535353,
+    "httpOnly": false,
+    "name": "_gid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.2.1514793897.1786448953"
+  },
+  {
+    "domain": "nissan-cambrai.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "60A7B9C1609869E2F7F83D169DEDB1FB"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1786449013,
+    "httpOnly": false,
+    "name": "_gat_newTracker1",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1794224957,
+    "httpOnly": false,
+    "name": "_gcl_au",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1.1.55649330.1786448957"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1821008969,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.1.2034792628.1786448953"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1786535357,
+    "httpOnly": false,
+    "name": "_clsk",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1ie8t1l%5E1786448957727%5E1%5E1%5Ei.clarity.ms%2Fcollect"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1821008969,
+    "httpOnly": false,
+    "name": "_ga_BJW30KBG5V",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.1.s1786448957$o1$g1$t1786448969$j48$l0$h0"
+  }
+]

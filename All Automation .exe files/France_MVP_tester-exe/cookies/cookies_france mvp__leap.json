@@ -1,0 +1,20 @@
+[
+  {
+    "domain": ".leapmotor-generic-demosite.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "68EB30786FD2F7902A181E329144354B"
+  },
+  {
+    "domain": "leapmotor-generic-demosite.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "41F853D8DE26DAA0E37A730934670219"
+  }
+]

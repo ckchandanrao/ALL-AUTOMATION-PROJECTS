@@ -1,0 +1,80 @@
+[
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799465026,
+    "httpOnly": false,
+    "name": "_ga_BJW30KBG5V",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.1.s1764905025$o2$g1$t1764905026$j59$l0$h0"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1796441025,
+    "httpOnly": false,
+    "name": "_clck",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1fbzb8l%5E2%5Eg1l%5E0%5E2164"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799465025,
+    "httpOnly": false,
+    "name": "_ga_89N9KVW7BH",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.1.s1764905025$o2$g0$t1764905025$j60$l0$h189802459"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1764991426,
+    "httpOnly": false,
+    "name": "_clsk",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "icjoce%5E1764905026320%5E1%5E1%5Ee.clarity.ms%2Fcollect"
+  },
+  {
+    "domain": "suzuki-bagneux.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "3BC069A8E91D02C1B3EF0C6A12701970"
+  },
+  {
+    "domain": ".suzuki-bagneux.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "384B0B7BD9928AA4C95E54B1FACD91DF"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1799465025,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.1.1238437429.1764847648"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1772623649,
+    "httpOnly": false,
+    "name": "_gcl_au",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1.1.1908714944.1764847649"
+  }
+]

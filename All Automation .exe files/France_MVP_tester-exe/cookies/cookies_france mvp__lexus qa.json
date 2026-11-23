@@ -1,0 +1,91 @@
+[
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1821008913,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.1.1366590030.1786448911"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1817984911,
+    "httpOnly": false,
+    "name": "_clck",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "dtx0jz%5E2%5Eg8i%5E0%5E2414"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1786448971,
+    "httpOnly": false,
+    "name": "_gat_newTracker1",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1"
+  },
+  {
+    "domain": "lexus-chambourcy.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "4129E9ADFDBB75A92C98CC689F939057"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1786535311,
+    "httpOnly": false,
+    "name": "_gid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.2.1372936389.1786448911"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1786535313,
+    "httpOnly": false,
+    "name": "_clsk",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "mn0nxt%5E1786448913222%5E1%5E1%5Ei.clarity.ms%2Fcollect"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1794224913,
+    "httpOnly": false,
+    "name": "_gcl_au",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1.1.1234988.1786448913"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1786448971,
+    "httpOnly": false,
+    "name": "_gat_gtag_UA_61325960_17",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1821008924,
+    "httpOnly": false,
+    "name": "_ga_BJW30KBG5V",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.1.s1786448913$o1$g1$t1786448924$j49$l0$h0"
+  }
+]

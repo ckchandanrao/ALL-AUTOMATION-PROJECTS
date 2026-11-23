@@ -1,0 +1,20 @@
+[
+  {
+    "domain": ".toyotamvp.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "BF72805F915DA93F4BE77BEF32393342"
+  },
+  {
+    "domain": "toyotamvp.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "6C432BE3E0AF0273FF4389E5C62288B2"
+  }
+]

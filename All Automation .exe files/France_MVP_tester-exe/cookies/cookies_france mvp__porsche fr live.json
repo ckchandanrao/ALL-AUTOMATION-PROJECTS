@@ -1,0 +1,20 @@
+[
+  {
+    "domain": "porschemodelpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "F3E86DF994D5BD76115122785C1765C6"
+  },
+  {
+    "domain": ".porschemodelpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "413FCF419A47E001F55A129724B45BE1"
+  }
+]

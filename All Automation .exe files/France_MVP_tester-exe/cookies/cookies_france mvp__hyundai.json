@@ -1,0 +1,50 @@
+[
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1769777181,
+    "httpOnly": false,
+    "name": "_gat_newTracker1",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1"
+  },
+  {
+    "domain": ".hyundai-amiens-poulainville.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "A38030B07D3413AAFB043E3C08B2F195"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1804337121,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.2.972665333.1764917758"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1769863521,
+    "httpOnly": false,
+    "name": "_gid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.2.1387313375.1769777122"
+  },
+  {
+    "domain": "hyundai-amiens-poulainville.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "F5B599D8852BF79B10800BF15DF7DCB0"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "domain": ".alpinemodelpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "772468C71C78018BB3034440F85E3E3E"
+  },
+  {
+    "domain": "alpinemodelpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "BE349B3907CFBC83882E01A4F3F2299E"
+  }
+]

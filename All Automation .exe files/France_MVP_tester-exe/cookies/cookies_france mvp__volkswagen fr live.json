@@ -1,0 +1,20 @@
+[
+  {
+    "domain": ".volkswagenmodelpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "9F03B3663D89EBC8FDBA81023D61EA96"
+  },
+  {
+    "domain": "volkswagenmodelpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "A7F43C5D3D7966449EA4EB096E7C4FF5"
+  }
+]

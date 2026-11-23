@@ -1,0 +1,81 @@
+[
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1805180389,
+    "httpOnly": false,
+    "name": "_ga_T2PFNVB85F",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.1.s1770620383$o1$g0$t1770620389$j54$l0$h1737278584"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1805180389,
+    "httpOnly": false,
+    "name": "_ga_89N9KVW7BH",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.1.s1770620383$o1$g0$t1770620389$j54$l0$h262134852"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1770706785,
+    "httpOnly": false,
+    "name": "_clsk",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1l7t4yu%5E1770620385033%5E1%5E1%5Ei.clarity.ms%2Fcollect"
+  },
+  {
+    "domain": "alpine-frejus.stg-eudemosite.com",
+    "expiry": 1773212382,
+    "httpOnly": false,
+    "name": "concernMode",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "granted"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1802156383,
+    "httpOnly": false,
+    "name": "_clck",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "16gwxgr%5E2%5Eg3f%5E0%5E2231"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1805180383,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.1.1155147432.1770620383"
+  },
+  {
+    "domain": "alpine-frejus.stg-eudemosite.com",
+    "expiry": 1773212382,
+    "httpOnly": false,
+    "name": "r1v2_cookie_key",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "customcookie"
+  },
+  {
+    "domain": "alpine-frejus.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "C1D8D6D5E3108484A5EA649E1272449A"
+  }
+]

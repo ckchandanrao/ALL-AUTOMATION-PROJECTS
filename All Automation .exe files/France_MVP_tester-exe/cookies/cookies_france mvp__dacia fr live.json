@@ -1,0 +1,20 @@
+[
+  {
+    "domain": "daciamodelpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "60423B5C00C66DE5842F185201A77D44"
+  },
+  {
+    "domain": ".daciamodelpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "2E85B81DB633E23B37A4A2F8F60D2551"
+  }
+]

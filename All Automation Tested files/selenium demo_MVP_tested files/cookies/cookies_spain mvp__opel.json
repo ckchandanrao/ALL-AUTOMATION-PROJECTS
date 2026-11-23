@@ -1,0 +1,20 @@
+[
+  {
+    "domain": ".opelmvp.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "AE7F17899C9E751260D2C78086B4ED64"
+  },
+  {
+    "domain": "opelmvp.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "7346B4F153C942D300D05B5148C70E30"
+  }
+]

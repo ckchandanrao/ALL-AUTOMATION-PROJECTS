@@ -1,0 +1,80 @@
+[
+  {
+    "domain": "citroen-arras.stg-eudemosite.com",
+    "expiry": 1778065619,
+    "httpOnly": false,
+    "name": "r1v2_cookie_key",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "customcookie"
+  },
+  {
+    "domain": ".citroen-arras.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "BFEF4525F640B4E7904A8C299E843345"
+  },
+  {
+    "domain": "citroen-arras.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "055B4A72897986E4EBEE22CA7B1146B1"
+  },
+  {
+    "domain": "citroen-arras.stg-eudemosite.com",
+    "expiry": 1778065619,
+    "httpOnly": false,
+    "name": "concernMode",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "granted"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1810033620,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.1.166209866.1775473620"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1807009620,
+    "httpOnly": false,
+    "name": "_clck",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1v39v4j%5E2%5Eg4z%5E0%5E2287"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1775560021,
+    "httpOnly": false,
+    "name": "_clsk",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1981u6o%5E1775473621996%5E1%5E1%5Ei.clarity.ms%2Fcollect"
+  },
+  {
+    "domain": ".stg-eudemosite.com",
+    "expiry": 1810033626,
+    "httpOnly": false,
+    "name": "_ga_89N9KVW7BH",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.1.s1775473620$o1$g0$t1775473626$j54$l0$h646720835"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "domain": ".dsmodelpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "013BB13CE8A38457EEA6C41B25D49F0C"
+  },
+  {
+    "domain": "dsmodelpages.eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "6B28AB4CAA24466ED1C3A1CB4F9C39C1"
+  }
+]

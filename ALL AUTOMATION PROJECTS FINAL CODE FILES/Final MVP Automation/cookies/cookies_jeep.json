@@ -1,0 +1,11 @@
+[
+  {
+    "domain": "jeepmodelpages.stg-eudemosite.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "0E7822C05B12E706816C90FA1720D252"
+  }
+]
